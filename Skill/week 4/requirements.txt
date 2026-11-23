@@ -1,0 +1,8 @@
+
+transformers
+
+sentencepiece
+
+tiktoken
+
+protobuf
